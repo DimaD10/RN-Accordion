@@ -1,0 +1,23 @@
+{
+  "section": {
+    "title": "Cocktail Profile",
+    "tags": [
+      "Is a classic cocktail",
+      "Looks layered",
+      "Dry",
+      "Reminds of Italy",
+      "Great for Holidays"
+    ]
+  },
+  "sectionWithDescription": {
+    "title": "Cocktail Profile",
+    "description": "A martini is a simple marriage of gin and dry vermouth (which has never enjoyed the same acclaim as its cousin, sweet vermouth). This martini variation tempers the intensity of dry vermouth with a little help from Italy in the form of Aperol. The drink’s appealing balance offers a first step toward enjoying the classic medley of vermouth, gin, and a bitter (does that formula sound familiar?).",
+    "tags": [
+      "Is a classic cocktail",
+      "Looks layered",
+      "Dry",
+      "Reminds of Italy",
+      "Great for Holidays"
+    ]
+  }
+}

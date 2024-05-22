@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "react-native-developer-1-test-project",
+    "slug": "react-native-developer-1-test-project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.benkodev.reactnativedeveloper1testproject"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "449f94ce-04f9-4f94-bdfe-b815f7a8ef21"
+      }
+    }
+  }
+}
