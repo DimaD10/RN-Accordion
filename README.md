@@ -2,7 +2,7 @@
 
 ## Completed By
 
-{{YOUR NAME}}
+Dima
 
 ## Video Demo
 
