@@ -6,4 +6,4 @@ Dima
 
 ## Video Demo
 
-![](LINK_TO_VIDEO)
+[YouTube Shorts Demo](https://youtube.com/shorts/QPfBzlwHG84?si=YPFbYEGtpNoy1Wsq)
