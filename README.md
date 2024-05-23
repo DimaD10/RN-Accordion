@@ -2,7 +2,7 @@
 
 ## Completed By
 
-Dima
+Dmytro Dziubenko
 
 ## Video Demo
 
