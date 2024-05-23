@@ -4,14 +4,12 @@ import { AccordionProps } from './accordion.config'
 import AccordionItem from './AccordionItem'
 import { View } from 'react-native'
 
-
-
 const AccordionComponent: React.FC<AccordionProps> = ({ items }) => {
   return (
     <View style={styles.container}>
       {[...items].length &&
         [...items].map((el, i) => (
-          <AccordionItem title={el.title} key={i} keyId={`${i}`}>
+          <AccordionItem title={el.title} key={i}>
             { el.text }
           </AccordionItem>
         ))}
