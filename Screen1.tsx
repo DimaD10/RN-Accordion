@@ -47,6 +47,7 @@ export const Screen1: React.FC<{}> = () => {
         <AccordionSingle title='Cocktail profile' opened={true}>
           <LabelsComponent labels={TAGS} />
         </AccordionSingle>
+        
         <AccordionSingle title='Cocktail profile'>
           <Text typeface='P3' style={{ color: '#c2c3c7' }}>
             A martini is a simple marriage of gin and dry vermouth (which has never enjoyed the same

@@ -14,24 +14,19 @@ export const styles = StyleSheet.create({
   header: {
     color: '#ffffff',
     paddingLeft: 12,
-    paddingRight: 38,
+    paddingRight: 12,
     paddingTop: 16,
     paddingBottom: 16,
-    position: 'relative',
     backgroundColor: 'transparent',
-    borderWidth: 0
+    borderWidth: 0,
+    display: "flex",
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+    gap: 6
   },
   icon: {
-    position: 'absolute',
-    right: 16,
-    top: '50%',
     transform: [
-      {
-        rotate: '0deg'
-      },
-      {
-        translateY: '-50%'
-      },
       {
         scaleY: 0.8
       }
